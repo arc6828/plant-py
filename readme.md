@@ -8,7 +8,16 @@ pip install notebook pandas ipywidgets openpyxl matplotlib
 pip install beautifulsoup4 requests
 ```
 
+## Language
+```
+pip install googletrans langdetect
+pip install python-slugify
+
+
+```
+
 ### ML
+```
 pip install scikit-learn
 
 ```
