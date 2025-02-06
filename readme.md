@@ -12,6 +12,7 @@ pip install beautifulsoup4 requests
 ```
 pip install googletrans langdetect
 pip install python-slugify
+pip install google-cloud-translate
 
 
 ```
@@ -67,3 +68,5 @@ https://api.gbif.org/v1/species/2760990/vernacularNames
 ## HOW TO GET vernaclurNames from species
 https://api.gbif.org/v1/species/match?name=musa
 https://api.gbif.org/v1/species/2760990/vernacularNames
+
+
