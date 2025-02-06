@@ -49,3 +49,13 @@ pip install folium
 ```
 pip install habanero
 ```
+
+## Plant service
+```
+pip install pygbif
+```
+
+## API GBIF OCCURRENCE
+```
+https://api.gbif.org/v1/occurrence/search?country=TH&kingdomKey=6&limit=10
+```
