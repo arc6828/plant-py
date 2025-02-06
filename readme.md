@@ -1,7 +1,7 @@
 # Promhod Python
 ## Basic
 ```python
-pip install notebook pandas ipywidgets openpyxl matplotlib
+pip install notebook pandas ipywidgets openpyxl matplotlib tqdm
 ```
 ## WEB CRAWLING
 ```
@@ -59,3 +59,11 @@ pip install pygbif
 ```
 https://api.gbif.org/v1/occurrence/search?country=TH&kingdomKey=6&limit=10
 ```
+
+## HOW TO GET vernaclurNames from species
+https://api.gbif.org/v1/species/match?name=musa
+https://api.gbif.org/v1/species/2760990/vernacularNames
+
+## HOW TO GET vernaclurNames from species
+https://api.gbif.org/v1/species/match?name=musa
+https://api.gbif.org/v1/species/2760990/vernacularNames
